@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  AA cutting-edge Deepfake Detection system that analyzes both videos and images to determine if content is REAL or FAKE.
+  A cutting-edge Deepfake Detection system that analyzes both videos and images to determine if content is REAL or FAKE.
 </div>
 <hr>
 
@@ -28,7 +28,7 @@ Deepfake Unmasked is a deep learning-based system that detects whether a given v
 
 ## 🔗Links
 
-- [GitHub Repository](https://github.com/pragatikharat17/shift-elite)
+- [GitHub Repository]([https://github.com/pragatikharat17/shift-elite](https://github.com/pragatikharat17/deepfake-images-video-detection))
 - [Demo Video](https://drive.google.com/file/d/1M7uZZuTqo0izz4LCNd82viLo9_IWimSJ/view?usp=sharing)
 - [Drive Link to Screenshots](https://drive.google.com/drive/folders/15m6KIRExkPqslkCtdI10p0eDwiRSqDRe?usp=share_link)
 
