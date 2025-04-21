@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  AA cutting-edge Deepfake Detection system that analyzes both **videos and images** to determine if content is REAL or FAKE.
+  AA cutting-edge Deepfake Detection system that analyzes both videos and images to determine if content is REAL or FAKE.
 </div>
 <hr>
 
@@ -23,7 +23,7 @@
 - [Screenshots](#screenshots)
 
 </details>
-## 📝Description
+Description
 Deepfake Unmasked is a deep learning-based system that detects whether a given video or image is real or fake. It uses advanced CNN models like Xception and InceptionV3, processes facial features, and provides accurate predictions through an interactive Gradio interface.
 
 ## 🔗Links
@@ -78,7 +78,7 @@ Deepfake Unmasked is a deep learning-based system that detects whether a given v
 10. Optimize Model Performance – complete
 11. Dual-Modality Detection - complete
 12. Interactive Gradio Web Interface - complete
-13. 
+ 
 
 ### Partially Implemented Features
 1. Mobile or Lightweight Deployment – Partial
