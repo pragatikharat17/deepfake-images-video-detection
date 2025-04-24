@@ -28,7 +28,7 @@ Deepfake Unmasked is a deep learning-based system that detects whether a given v
 
 ## 🔗Links
 
-- [GitHub Repository]([https://github.com/pragatikharat17/shift-elite](https://github.com/pragatikharat17/deepfake-images-video-detection))
+- [GitHub Repository](https://github.com/pragatikharat17/deepfake-images-video-detection/tree/demo)
 -  [Drive Link to demo video](https://drive.google.com/drive/folders/16OzD5BsRnUokx9ISjLJWYOFKJL1g0NOZ?usp=sharing)
 - [Drive Link to Screenshots](https://drive.google.com/drive/folders/16OzD5BsRnUokx9ISjLJWYOFKJL1g0NOZ?usp=sharing)
 
